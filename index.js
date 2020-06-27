@@ -16,5 +16,4 @@ function logWhisper(string){
 }
 
 Function sayHiToGrandman(string){
-  
-}
+  }
